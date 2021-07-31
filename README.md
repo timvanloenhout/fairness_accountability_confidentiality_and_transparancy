@@ -1,4 +1,4 @@
-# Debias VAE
+# Debiasing-VAE
 This is a Pytorch implementation of the [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure ([Amini \& Soleimany et al., 2019](https://lmrt.mit.edu/publications/uncovering-and-mitigating-algorithmic-bias-through-learned-latent-structure)) paper. We ran several experiments and derived some conclusions which can be seen/read in [the report](debiasing-vae_for_facial_recognition.pdf).
 
 ## Abstract of report
