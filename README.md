@@ -1,13 +1,3 @@
-# Date
-01-31-2020
-# Authors
-Puck de Haan (pdehaan274@gmail.com) <br>
-Paul ten Kaate (paultenkaate@outlook.com) <br>
-Tim van Loenhout (timvanloenhout@gmail.com) <br>
-Jan Erik van Woerden (janerikvw2006@gmail.com) <br>
-# TA 
-Simon Passenheim (simon.passenheim@googlemail.com)
-
 # Debias VAE
 This is a Pytorch implementation of the [Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure ([Amini \& Soleimany et al., 2019](https://lmrt.mit.edu/publications/uncovering-and-mitigating-algorithmic-bias-through-learned-latent-structure)) paper. We ran several experiments and derived some conclusions which can be seen/read in [the report](11305150_10743367_10741577_11033711-FACT-AI-report.pdf).
 
